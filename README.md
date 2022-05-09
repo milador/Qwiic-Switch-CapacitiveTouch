@@ -1,9 +1,14 @@
 # This is a project based on Qwiic Adaptive Switch modules
 This repository offers the required information for creating an Open Source Assistive Technology using [Qwiic Adaptive Switch modules](https://github.com/milador/Qwiic-Adaptive-Switch).
 
-## [Project Title]
+##  Qwiic-Switch-CapacitiveTouch
 
-This is the description of the Open Source Assistive Technology created based on Qwiic Adaptive Switch modules and other components.
+A device that converts Capacitive Touch inputs to switch outputs. This device is based on Qwiic Adaptive Switch Output modules and Adafruit QT Py.
+It offers up to two switch inputs but it can be expanded to use more inputs.
+
+<p align="center">
+<img align="center" src="./Resources/Images/Qwiic_Switch_CapacitiveTouch.png" width="50%" height="50%" alt="Setup Diagram"/>
+</p>
 
 ## Requirements and setup instructions 
 The setup process is divided to three main catagories:
